@@ -1,2 +1,1 @@
-# Newtons-cradle
-press up arrow to move
+# NC27
